@@ -1,3 +1,4 @@
+![](https://github.com/smcbustamante/Elective-Laboratories/blob/main/Laboratory%202/Profile%20Banner.png)
 # 💫 About Me:
 🔭 I’m currently working on a personal video<br>🤝 I’m looking for help with my to-do mountain<br>🌱 I’m currently learning how to navigate GitHub<br>💬 Ask me about art, maybe?<br>⚡ Fun fact: I doodle on my physical and digital notes
 
