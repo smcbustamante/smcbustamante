@@ -1,10 +1,10 @@
 ![](https://github.com/smcbustamante/Elective-Laboratories/blob/main/Laboratory%202/Profile%20Banner.png)
 # 💫 About Me:
-🔭 I’m currently working on a personal video<br>🤝 I’m looking for help with my to-do mountain<br>🌱 I’m currently learning how to navigate GitHub<br>💬 Ask me about art, maybe?<br>⚡ Fun fact: I doodle on my physical and digital notes
+Sharina May C. Bustamante<br>Aspiring Digital Marketer<br>"Creating experiences that inspire."<br><br>ABOUT ME<br>I am a 19-year-old sophomore student pursuing a BS in Marketing. I was born in Cebu City on May 9, 2006, and later moved with my parents to Davao City. I come from a family of four: my parents, my younger sister, and me. I  am interested in design, especially character design. This led me to draw many characters, including the mascot, in my profile. I like to draw, sing, read webcomics, and watch animated shows.<br><br>SKILLS<br>- Drawing<br>- Group collaboration<br>- Time management<br>- Digital communication<br>- Adaptability and resilience<br><br>CONTACT LINK<br>Email: smcbustamante@addu.edu.ph
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yanyan Bustamante) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@localinternetuser2328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smcbustamante@addu.edu.ph) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SharinaMayBustamante) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smcbustamante@addu.edu.ph) 
 
 # 💻 Tech Stack:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
